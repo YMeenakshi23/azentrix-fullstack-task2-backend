@@ -276,3 +276,10 @@ GitHub: https://github.com/YMeenakshi23
 * [x] Dockerized Application
 * [x] PostgreSQL Integration
 * [x] Environment Configuration
+
+---
+> 💡 **Bonus Full-Stack Presentation:**
+> I built a complete **React + Tailwind CSS** frontend client to easily demonstrate this API's multi-tenancy, JWT login rotation, and soft-delete features in a real browser environment.
+> 
+> 📁 **To view the frontend code, drop down the branch menu above and select the `frontend` branch!**
+---
